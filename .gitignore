@@ -1,3 +1,6 @@
+# environment variables - put your openai api codes here
+python.env
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
